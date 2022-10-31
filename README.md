@@ -24,7 +24,6 @@
   <li>Context api</li>
   <li>Reducers</li>
   <li>Immer (for working with immutable states)</li>
-  <li>React closures</li>
 </ul>
 
 ------------------------====--------------------------
